@@ -84,7 +84,7 @@ h3,p{
 
     .container{
         position: relative;
-        top:500px;
+        top:650px;
         grid-template-columns: 1fr;
         grid-template-rows: 2fr 0.5fr 0.5fr 1.5fr 1.5fr;
         grid-template-areas: 
